@@ -1,5 +1,9 @@
 <!DOCTYPE HTML>
-
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Rajan Portfolio</title>
@@ -57,10 +61,10 @@
 
 							<header>
 
-								<h2 class="alt">Hello!! <strong>Welcome </strong> <br />
+								<h2 class="alt">Hello!! <strong>Welcome to know about me through my Portfolio </strong> <br />
 								 </h2>
-								<p>
-								"My name is Rajan Kumar, and my portfolio is a representation of all that I've learned and accomplished as a science, engineering student and now as a working professional."</p>
+								<p>Rajan kumar<br />
+								A independent , Ambitious and goal oriented person</p>
 							</header>
 
 							<footer>
@@ -80,10 +84,6 @@
 
 							<p>I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
 								I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness.
-								With my personal experience education and learning is closely related to several cognitive theories of motivation and interest.
-								I believe that learning can't be stopped at any age it should be continuous till death so try to learn new and share your knowledge with other
-								for the betterment of ourself and society.
-								By keeping things positive , i believe that we will end up learning more and getting more out of each and every lesson.
 							.</p>
 
 							<div class="row">
@@ -91,42 +91,41 @@
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/rajan2_red.jpg" alt="" /></a>
 										<header>
-											<h3></h3>
+											<h3>Ipsum Feugiat</h3>
 										</header>
 									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="https://i.cdn.talentegg.ca/incubator/wp-content/uploads/2012/07/quote-3-winston-churchill-1.jpg" alt="" /></a>
-										<header>
-											<h3></h3>
-										</header>
-									</article>
-								</div>
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/rajan_blue.jpg" alt="" /></a>
-										<header>
-											<h3></h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="https://i.pinimg.com/originals/d5/70/cc/d570cc3ae55cedd1cdc8f832ce07c056.jpg" alt="" /></a>
-										<header>
-											<h3></h3>
-										</header>
-
-									</article>
-								</div>
-								<div class="col-4 col-12-mobile">
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/blackCap.jpg" alt="" /></a>
 										<header>
-											<h3></h3>
+											<h3>Rhoncus Semper</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+										<header>
+											<h3>Magna Nullam</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="https://1.bp.blogspot.com/-fPPnhXVruZs/XdTA0YtEs8I/AAAAAAAAEuM/1MFCUjsdToEqpukKG7mOyudb8LzsGxF5wCLcBGAsYHQ/s1600/Never%2Bgive%2Bup%2Bmotivation%2Bquotes.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/rajan_blue.jpg" alt="" /></a>
 										<header>
-											<h3></h3>
+											<h3>Natoque Vitae</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+										<header>
+											<h3>Dolor Penatibus</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+										<header>
+											<h3>Orci Convallis</h3>
 										</header>
 									</article>
 								</div>
@@ -143,11 +142,10 @@
 								<h2>About Me</h2>
 							</header>
 
-
+							<a href="#" class="image featured"><img src="blackCap.jpg" alt="" /></a>
 
 							<p>
-								Well, I’m currently working as System software engineer  and I specialize in doing different stuff related to different computer technology .
-								A good motivator and goal oriented person , want to learn new things as much as possible .
+								Well, I’m currently an system engineer at TCS, where I handle various clients issue and a hard coder.
 
 							.</p>
 
@@ -162,7 +160,8 @@
 								<h2>Contact</h2>
 							</header>
 
-							<p>Please feel free to contact me and can have a one to one interaction</p>
+							<p>Anyone can contact me as i am a good motivator and postive thinker, like to interact with people
+								and exhange ideas and knowledge.</p>
 
 							<form method="post" action="#">
 								<div class="row">
@@ -187,7 +186,7 @@
 
 				<!-- Copyright -->
 					<ul class="copyright">
-						<li>&copy; Self. All rights reserved.</li><li>Rajan kumar</a></li>
+						<li>&copy; Untitled. All rights reserved.</li><li>rajan kumar</a></li>
 					</ul>
 
 			</div>
